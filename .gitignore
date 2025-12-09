@@ -6,7 +6,7 @@ venv/
 .env
 .coverage
 
-# Logi (tego nie chcemy w repo)
+# Logi 
 logs/
 *.log
 
