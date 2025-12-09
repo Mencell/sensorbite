@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.env
+.coverage
+
+# Logi (tego nie chcemy w repo)
+logs/
+*.log
+
+# Systemowe
+.DS_Store
