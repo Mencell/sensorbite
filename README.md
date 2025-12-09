@@ -30,7 +30,7 @@ Kod został podzielony na moduły, co ułatwia jego rozwój i testowanie:
 │   └── test_engine.py   # Testy jednostkowe (pytest)
 ├── Dockerfile           # Konfiguracja środowiska uruchomieniowego
 └── requirements.txt     # Zależności Python
-'''
+```
 ---
 
 ## Jak uruchomić (Instalacja)
