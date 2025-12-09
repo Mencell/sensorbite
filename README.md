@@ -17,7 +17,6 @@ Mikroserwis wyznaczający bezpieczne trasy ewakuacyjne z uwzględnieniem dynamic
 Kod został podzielony na moduły, co ułatwia jego rozwój i testowanie:
 
 ```text
-.
 ├── app/
 │   ├── main.py          # Punkt wejścia aplikacji (Flask API)
 │   ├── engine.py        # Logika biznesowa: budowa grafu i algorytm A*
